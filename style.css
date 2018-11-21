@@ -1,0 +1,19 @@
+body{
+	background: lightblue;
+	font-family: sans-serif
+}
+
+.red {
+	color: darkgray;
+}
+
+#mainheading {
+	color: blue;
+}
+
+h3 {float: left;
+	display: inline-block;}
+
+
+img {float: center;
+	display: inline-block;}
